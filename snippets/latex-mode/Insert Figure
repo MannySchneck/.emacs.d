@@ -1,0 +1,11 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: Insert Figure
+# key: newFig
+# binding: direct-keybinding
+# --
+\begin{figure}[${1:h}]
+  \centering
+  \includegraphics[width=0.8\textwidth]{${2:image.png}}
+  \caption{${3:its Art}}
+  \label{fig:$4}
+\end{figure}

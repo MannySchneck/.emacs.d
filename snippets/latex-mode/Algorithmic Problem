@@ -1,0 +1,14 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: Algorithmic Problem
+# key: AlgProb
+# binding: direct-keybinding
+# --
+\section*{${1:Problem Title}}
+\subsection*{Inputs}
+\begin{itemize}
+\item ${2:input1}
+\end{itemize}
+\subsection*{Outputs}
+\begin{itemize}
+\item ${3:Output1}
+\end{itemize}

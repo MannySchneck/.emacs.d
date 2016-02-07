@@ -1,0 +1,13 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: Algorithm details
+# key: algProofs
+# binding: direct-keybinding
+# --
+\begin{rt}
+  \[T(n) = $1 \]
+\end{rt}
+\begin{proof}
+  $2
+\end{proof}
+
+\subsection*{Correctness}

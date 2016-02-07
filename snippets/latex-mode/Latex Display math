@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: Latex Display math
+# key: dsp
+# binding: direct-keybinding
+# --
+\[
+  $0
+\]

@@ -1,0 +1,15 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: 336 Algorithm
+# key: newAlg
+# binding: direct-keybinding
+# --
+\begin{algorithm}
+  \caption{BoxNester}\label{alg:1}
+  \subsubsection*{Inputs}
+  \begin{itemize}
+  \item $0
+  \end{itemize}
+  \begin{algorithmic}[1]
+    $1
+  \end{algorithmic}
+\end{algorithm}
